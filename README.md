@@ -1,4 +1,4 @@
-<!--
+<meta name="google-site-verification" content="7sf6j4QyoufoLle6fFkTeEbeB84Hm2fWccgB7Ja0La0" /><!--
   SEO METADATA KEYWORDS:
   mdrifatdev, Md Rifat, Web Developer Bangladesh, Freelancer Bangladesh,
   Textile Engineer Bangladesh, Web Developer Rangpur, Frontend Developer Bangladesh,
