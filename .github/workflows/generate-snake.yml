@@ -12,6 +12,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
     steps:
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@v3
